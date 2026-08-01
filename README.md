@@ -78,21 +78,7 @@ Replace this with a screenshot of your portfolio.
 assets/portfolio-preview.png
 ```
 
----
 
-## 📁 Project Structure
-
-```
-Portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── profile.jpg
-│   └── images/
-└── README.md
-```
 
 ---
 
