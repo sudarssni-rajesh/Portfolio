@@ -68,17 +68,6 @@ NLP application that converts complex medical terminology into easy-to-understan
 ### AgroRent
 Database-driven equipment rental platform for organic farming.
 
----
-
-## 📸 Preview
-
-Replace this with a screenshot of your portfolio.
-
-```
-assets/portfolio-preview.png
-```
-
-
 
 ---
 
